@@ -1,0 +1,4 @@
+Rose
+Masters 1
+Bash
+Python
